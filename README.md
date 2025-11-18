@@ -12,7 +12,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 | Project | Findings | Severity (M/H) | Rank |
 |----------|-----------|----------------|------|
 | Neutrl Protocol (Solidity) | 1 | 1M | 1 |
-| Flare - FAsset (Solidity) | 1 | top QA | 5 |
+| Flare - FAsset (Solidity) | 1 | Top QA | 5 |
 
 ---
 
@@ -33,6 +33,6 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 | Ammplify | 5 | 1H, 4M |
 | Super DCA Liquidity Network | 5 | 3H, 2M |
 | GTE Spot CLOB and Router | 1 | 1M |
-| Flare - FAsset | 1 | top QA |
+| Flare - FAsset | 1 | Top QA |
 
 ---
