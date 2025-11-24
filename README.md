@@ -13,6 +13,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 |----------|-----------|----------------|------|
 | Neutrl Protocol (Solidity) | 1 | 1M | 1 |
 | Flare - FAsset (Solidity) | 1 | Top QA | 5 |
+| LayerZero: Starknet Endpoint (Cairo) | 1 | Top QA | 1 |
 
 ---
 
@@ -34,5 +35,6 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 | Super DCA Liquidity Network | 5 | 3H, 2M |
 | GTE Spot CLOB and Router | 1 | 1M |
 | Flare - FAsset | 1 | Top QA |
+| LayerZero: Starknet Endpoint | 1 | Top QA |
 
 ---
