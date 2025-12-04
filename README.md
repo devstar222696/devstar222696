@@ -12,7 +12,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 | Project | Findings | Severity (M/H) | Rank |
 |----------|-----------|----------------|------|
 | Neutrl Protocol (Solidity) | 1 | 1M | 1 |
-| Flare - FAsset (Solidity) | 1 | Top QA | 5 |
+| Flare - FAsset (Solidity) | 1 | Top QA | 4 |
 | LayerZero: Starknet Endpoint (Cairo) | 1 | Top QA | 1 |
 
 ---
