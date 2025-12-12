@@ -24,8 +24,9 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 |:--------|:---------|:---------|:---------|
 | LayerZero: Starknet Endpoint | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Flare – FAsset | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
-| GTE Spot CLOB and Router | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Super DCA Liquidity Network | Sherlock | 5 | ![](https://img.shields.io/badge/H-3-red) ![](https://img.shields.io/badge/M-2-yellow) |
+| GTE Spot CLOB and Router | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
+| Rezerve Money (private) | Sherlock | 3 | ![](https://img.shields.io/badge/H-2-red) ![](https://img.shields.io/badge/M-1-yellow) |
 | Ammplify | Sherlock | 5 | ![](https://img.shields.io/badge/H-1-red) ![](https://img.shields.io/badge/M-4-yellow) |
 | USG – Tangent | Sherlock | 2 | ![](https://img.shields.io/badge/H-1-red) ![](https://img.shields.io/badge/M-1-yellow) |
 | Neutrl Protocol | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
