@@ -1,13 +1,13 @@
-# Hi there! 👋 I'm JeRRy
+## About me
 
 Independent **security researcher / smart contract auditor** specializing in **DeFi**, **Solidity**, and **formal verification**.  
 Focused on identifying logic flaws, improving protocol security, and contributing to safer blockchain systems.
 
-📫 **Reach out via** [X](https://x.com/JeRRySec0422) or [Telegram](https://t.me/OxJeRRy0422) for audits in **Solidity**, **Rust**, **Move**, and **Cairo**.
+**Reach out via** [X](https://x.com/JeRRySec0422) or [Telegram](https://t.me/OxJeRRy0422) for audits in **Solidity**, **Rust**, **Move**, and **Cairo**.
 
 ---
 
-## 🏆 Notable Contest Results
+## Notable Contest Results
 
 | Project | Platform | Findings | Severity | Rank |
 |--------|----------|----------|----------|------|
@@ -17,9 +17,9 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 
 ---
 
-## 🔍 Audit Portfolio
+## Audit Portfolio
 
-### 🧩 Contest Engagements  
+### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |--------|----------|----------|----------|
 | LayerZero: Starknet Endpoint | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
@@ -39,9 +39,9 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 
 ---
 
-## 🧑‍⚖️ Judging Experience
+## Judging Experience
 
-### 🥇 Sherlock Judging — **Rank #1**
+### Sherlock Judging — **Rank #1**
 
 Recognized as the top-ranking judge on Sherlock for consistency, accuracy, and high-signal evaluation.
 
