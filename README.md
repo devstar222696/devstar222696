@@ -10,10 +10,10 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 ## Notable Contest Results
 
 | Project | Platform | Findings | Severity | Rank |
-|--------|----------|----------|----------|------|
-| **Neutrl Protocol (Solidity)** | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥇 |
-| **Flare – FAsset (Solidity)** | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 4 |
-| **LayerZero: Starknet Endpoint (Cairo)** | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
+|:--------|:---------|:---------|:---------|:-----|
+| [**Neutrl Protocol (Solidity)**](https://audits.sherlock.xyz/contests/1065/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥇 |
+| [**Flare – FAsset (Solidity)**](https://code4rena.com/audits/2025-08-flare-fasset) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 4 |
+| [**LayerZero: Starknet Endpoint (Cairo)**](https://code4rena.com/audits/2025-10-layerzero-starknet-endpoint) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
 
 ---
 
@@ -21,7 +21,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
-|--------|----------|----------|----------|
+|:--------|:---------|:---------|:---------|
 | LayerZero: Starknet Endpoint | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Flare – FAsset | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | GTE Spot CLOB and Router | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
