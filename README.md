@@ -39,7 +39,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 
 ---
 
-## 🧑‍⚖️ Judging Portfolio 
+## 🧑‍⚖️ Judging Experience
 
 ### 🥇 Sherlock Judging — **Rank #1**
 
@@ -49,4 +49,4 @@ Recognized as the top-ranking judge on Sherlock for consistency, accuracy, and h
 
 ---
 
-✨ _“Secure code is good; secure systems are better.”_  
+> _“Secure code is good; secure systems are better.”_
