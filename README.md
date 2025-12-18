@@ -22,6 +22,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Megapot | Code4rena | 2 | ![](https://img.shields.io/badge/M-2-yellow) |
 | LayerZero: Starknet Endpoint | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Flare – FAsset | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Super DCA Liquidity Network | Sherlock | 5 | ![](https://img.shields.io/badge/H-3-red) ![](https://img.shields.io/badge/M-2-yellow) |
