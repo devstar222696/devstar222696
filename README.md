@@ -14,7 +14,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 | [**Neutrl Protocol (Solidity)**](https://audits.sherlock.xyz/contests/1065/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥇 |
 | [**Flare – FAsset (Solidity)**](https://code4rena.com/audits/2025-08-flare-fasset) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 4 |
 | [**LayerZero: Starknet Endpoint (Cairo)**](https://code4rena.com/audits/2025-10-layerzero-starknet-endpoint) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
-
+| [**Inverse Finance - Junior Tranche (Solidity)**](https://audits.sherlock.xyz/contests/1202/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥉 |
 ---
 
 ## Audit Portfolio
@@ -22,6 +22,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Inverse Finance - Junior Tranche | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Megapot | Code4rena | 2 | ![](https://img.shields.io/badge/M-2-yellow) |
 | LayerZero: Starknet Endpoint | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Flare – FAsset | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
