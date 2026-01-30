@@ -22,6 +22,7 @@ Focused on identifying logic flaws, improving protocol security, and contributin
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Reflector V3 | Code4rena | 2 | ![](https://img.shields.io/badge/H-1-red) ![](https://img.shields.io/badge/M-1-yellow) |
 | Brix Money | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | GTE Perps and Launchpad | Code4rena | 3 | ![](https://img.shields.io/badge/H-2-red) ![](https://img.shields.io/badge/M-1-yellow) |
 | Rain Smart Contract | HackenProof | 4 | ![](https://img.shields.io/badge/C-2-purple) ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/L-1-blue) |
