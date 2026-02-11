@@ -56,6 +56,14 @@ Recognized as the top-ranking judge on Sherlock for consistency, accuracy, and h
 
 [![Sherlock Judging Leaderboard](https://img.shields.io/badge/Sherlock-Judging%20Rank%20%231-gold?style=for-the-badge)](https://audits.sherlock.xyz/leaderboards?tab=judging&l=judging)
 
+### Code4rena — Judge
+
+Selected as an official judge at Code4rena, responsible for evaluating submissions, validating findings, and ensuring fair and accurate severity assessments across competitive audits.
+
+Contributing to maintaining high standards of signal, precision, and security rigor within the Web3 auditing ecosystem.
+
+[![Code4rena Judge](https://img.shields.io/badge/Code4rena-Official%20Judge-purple?style=for-the-badge)](https://code4rena.com/@jerry0422)
+
 ---
 
 > _“Secure code is good; secure systems are better.”_
