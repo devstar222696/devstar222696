@@ -2,7 +2,7 @@
 
 Independent **security researcher / smart contract auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 applications.
 
-**Reach out via** [X(@JeRRySec0422)](https://x.com/JeRRySec0422) or [Telegram(@OxJeRRy0422)](https://t.me/OxJeRRy0422) for audits in **Solidity**, **Rust**, **Move**, and **Cairo**.
+**Reach out via** [X(@JeRRySec0422)](https://x.com/JeRRySec0422) or [Telegram(@OxJeRRy0422)](https://t.me/OxJeRRy0422) for audits in **Solidity**, **Rust**, **Move**, **Go** and **Cairo**.
 
 ---
 
