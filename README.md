@@ -2,6 +2,11 @@
 
 Independent **security researcher / smart contract auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 applications.
 
+- 🛡️ Judge at Code4rena & Sherlock
+- 🏆 Multiple high-severity findings across public contests
+- 🔬 Deep focus on exploit development, edge-case analysis & invariant thinking
+- 🌍 Open to remote security researcher / audit roles
+  
 **Reach out via** [X(@JeRRySec0422)](https://x.com/JeRRySec0422) or [Telegram(@OxJeRRy0422)](https://t.me/OxJeRRy0422) for audits in **Solidity**, **Rust**, **Move**, **Go** and **Cairo**.
 
 ---
