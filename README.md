@@ -26,6 +26,7 @@ Independent **security researcher / smart contract auditor** specializing in **s
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Monolith Stablecoin Factory | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Panoptic: Next Core | Code4rena | 2 | ![](https://img.shields.io/badge/H-1-red) ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | SukukFi | Code4rena | 2 | ![](https://img.shields.io/badge/H-1-red) ![](https://img.shields.io/badge/QA-3rd%20QA-blue) |
 | Reflector V3 | Code4rena | 2 | ![](https://img.shields.io/badge/H-1-red) ![](https://img.shields.io/badge/M-1-yellow) |
