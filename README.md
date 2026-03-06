@@ -1,6 +1,6 @@
 ## About me
 
-Independent **security researcher / smart contract auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 applications.
+**Security researcher / smart contract auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 applications.
 
 - Judge at Code4rena & Sherlock
 - Multiple high-severity findings across public contests
