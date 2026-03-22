@@ -59,17 +59,21 @@
 
 ### Sherlock — Judge
 
-Recognized as the top-ranking judge on Sherlock for consistency, accuracy, and high-signal evaluation.
-
-[![Sherlock Judging Leaderboard](https://img.shields.io/badge/Sherlock-Judging%20Rank%20%231-gold?style=for-the-badge)](https://audits.sherlock.xyz/leaderboards?tab=judging&l=judging)
+| Project | Category | Link |
+|:--------|:---------|:-----|
+| Current Finance | Sui DeFi | [View](https://audits.sherlock.xyz/contests/1256) |
 
 ### Code4rena — Judge
 
 Selected as an official judge at Code4rena, responsible for evaluating submissions, validating findings, and ensuring fair and accurate severity assessments across competitive audits.
 
-Contributing to maintaining high standards of signal, precision, and security rigor within the Web3 auditing ecosystem.
+| Project | Category | Link |
+|:--------|:---------|:-----|
+| Swafe Mitigation Review | ZK | [View](https://code4rena.com/audits/2026-03-swafe-mitigation-review) |
 
 [![Code4rena Judge](https://img.shields.io/badge/Code4rena-Official%20Judge-purple?style=for-the-badge)](https://code4rena.com/@jerry0422)
+
+
 
 ---
 
