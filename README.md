@@ -26,6 +26,8 @@
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Rujira | Code4rena | 2 | ![](https://img.shields.io/badge/H-2-red) |
+| Swafe | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Monolith Stablecoin Factory | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Panoptic: Next Core | Code4rena | 2 | ![](https://img.shields.io/badge/H-1-red) ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | SukukFi | Code4rena | 2 | ![](https://img.shields.io/badge/H-1-red) ![](https://img.shields.io/badge/QA-3rd%20QA-blue) |
@@ -55,7 +57,7 @@
 
 ## Judging Experience
 
-### Sherlock Judging — **Rank #1**
+### Sherlock — Judge
 
 Recognized as the top-ranking judge on Sherlock for consistency, accuracy, and high-signal evaluation.
 
