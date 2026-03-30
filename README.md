@@ -19,6 +19,7 @@
 | [**Flare – FAsset (Solidity)**](https://code4rena.com/audits/2025-08-flare-fasset) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 4 |
 | [**LayerZero: Starknet Endpoint (Cairo)**](https://code4rena.com/audits/2025-10-layerzero-starknet-endpoint) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
 | [**Inverse Finance - Junior Tranche (Solidity)**](https://audits.sherlock.xyz/contests/1202/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥉 |
+| [**Intuition (Solidity)**](https://code4rena.com/audits/2026-03-intuition) | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
 ---
 
 ## Audit Portfolio
@@ -26,6 +27,7 @@
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Intuition | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Rujira | Code4rena | 2 | ![](https://img.shields.io/badge/H-2-red) |
 | Swafe | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Monolith Stablecoin Factory | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
