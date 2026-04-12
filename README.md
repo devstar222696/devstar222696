@@ -27,6 +27,7 @@
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Olas | Code4rena | 1 | ![](https://img.shields.io/badge/H-1-red) |
 | Intuition | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Rujira | Code4rena | 2 | ![](https://img.shields.io/badge/H-2-red) |
 | Swafe | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
