@@ -65,6 +65,7 @@
 | Project | Category | Link |
 |:--------|:---------|:-----|
 | Current Finance | Sui DeFi | [View](https://audits.sherlock.xyz/contests/1256) |
+| Clear Macro by Superfluid | DeFi | [View](https://audits.sherlock.xyz/contests/1263) |
 
 ### Code4rena — Judge
 
