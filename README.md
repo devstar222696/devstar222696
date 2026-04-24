@@ -28,6 +28,7 @@
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Chainlink Payment Abstraction V2 | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Olas | Code4rena | 1 | ![](https://img.shields.io/badge/H-1-red) |
 | Intuition | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Rujira | Code4rena | 2 | ![](https://img.shields.io/badge/H-2-red) |
@@ -76,9 +77,8 @@ Selected as an official judge at Code4rena, responsible for evaluating submissio
 |:--------|:---------|:-----|
 | Swafe Mitigation Review | ZK | [View](https://code4rena.com/audits/2026-03-swafe-mitigation-review) |
 
+
 [![Code4rena Judge](https://img.shields.io/badge/Code4rena-Official%20Judge-purple?style=for-the-badge)](https://code4rena.com/@jerry0422)
-
-
 
 ---
 
