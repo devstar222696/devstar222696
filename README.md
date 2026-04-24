@@ -1,9 +1,9 @@
 ## About me
 
-**Security researcher / smart contract auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 applications.
+**Security researcher / smart contract auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 system.
 
 - Judge at Code4rena & Sherlock
-- Multiple high-severity findings across public contests
+- Multiple high-severity findings across public contests and bug bounties
 - Deep focus on exploit development, edge-case analysis & invariant thinking
 - Open to remote security researcher / audit roles
   
@@ -58,6 +58,11 @@
 | Burve | Sherlock | 1 | ![](https://img.shields.io/badge/H-1-red) |
 | Forte: Float128 Library | Code4rena | 1 | ![](https://img.shields.io/badge/H-1-red) |
 
+### Bug Bounties
+| Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount |
+| ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: |
+| 2026.04 | HackenProof	 | *Hidden*    | Bridge | Rust | Low | 1k |
+
 ---
 
 ## Judging Experience
@@ -76,7 +81,7 @@ Selected as an official judge at Code4rena, responsible for evaluating submissio
 | Project | Category | Link |
 |:--------|:---------|:-----|
 | Swafe Mitigation Review | ZK | [View](https://code4rena.com/audits/2026-03-swafe-mitigation-review) |
-
+| Monetrix | DeFi | [View](https://code4rena.com/audits/2026-04-monetrix) |
 
 [![Code4rena Judge](https://img.shields.io/badge/Code4rena-Official%20Judge-purple?style=for-the-badge)](https://code4rena.com/@jerry0422)
 
