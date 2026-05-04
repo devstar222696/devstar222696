@@ -21,6 +21,7 @@
 | [**Inverse Finance - Junior Tranche (Solidity)**](https://audits.sherlock.xyz/contests/1202/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥉 |
 | [**Intuition (Solidity)**](https://code4rena.com/audits/2026-03-intuition) | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
 | [**Intuition Mitigation Review (Solidity)**](https://code4rena.com/audits/2026-04-intuition-mitigation-review) | Code4rena |  |  | 🥇 |
+| [**Injective Peggy Bridge (Go)**](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-2nd%20QA-blue) | 9 |
 ---
 
 ## Audit Portfolio
@@ -28,6 +29,7 @@
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Injective Peggy Bridge | Code4rena | 1 | ![](https://img.shields.io/badge/QA-2nd%20QA-blue) |
 | Chainlink Payment Abstraction V2 | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Olas | Code4rena | 1 | ![](https://img.shields.io/badge/H-1-red) |
 | Intuition | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
