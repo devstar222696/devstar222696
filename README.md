@@ -19,7 +19,7 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 
 <p align="center">
   <a href="https://github.com/devstar222696/devstar222696/blob/main/assets/kann-audits-internship-certificate.webp">
-    <img src="https://raw.githubusercontent.com/devstar222696/devstar222696/main/assets/kann-audits-internship-certificate.webp"
+    <img src="https://raw.githubusercontent.com/devstar222696/devstar222696/main/kann-audits-internship-certificate.webp"
          alt="Kann Audits Internship Certificate"
          width="800">
   </a>
