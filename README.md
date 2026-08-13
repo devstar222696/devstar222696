@@ -32,13 +32,13 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 | Project | Platform | Findings | Severity | Rank |
 |:--------|:---------|:---------|:---------|:-----|
 | [**Neutrl Protocol (Solidity)**](https://audits.sherlock.xyz/contests/1065/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥇 |
-| [**Flare – FAsset (Solidity)**](https://code4rena.com/audits/2025-08-flare-fasset) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 4 |
 | [**LayerZero: Starknet Endpoint (Cairo)**](https://code4rena.com/audits/2025-10-layerzero-starknet-endpoint) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
-| [**Inverse Finance - Junior Tranche (Solidity)**](https://audits.sherlock.xyz/contests/1202/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥉 |
 | [**Intuition (Solidity)**](https://code4rena.com/audits/2026-03-intuition) | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
 | [**Intuition Mitigation Review (Solidity)**](https://code4rena.com/audits/2026-04-intuition-mitigation-review) | Code4rena |  |  | 🥇 |
-| [**Injective Peggy Bridge (Go)**](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-2nd%20QA-blue) | 9 |
+| [**Inverse Finance - Junior Tranche (Solidity)**](https://audits.sherlock.xyz/contests/1202/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥉 |
+| [**Flare – FAsset (Solidity)**](https://code4rena.com/audits/2025-08-flare-fasset) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 4 |
 | [**Jupiter Lend (Rust)**](https://code4rena.com/audits/2026-02-jupiter-lend) | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 6 |
+| [**Injective Peggy Bridge (Go)**](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-2nd%20QA-blue) | 9 |
 ---
 
 ## Audit Portfolio
@@ -77,6 +77,11 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 | mystic-monorepo | Cantina | 6 | ![](https://img.shields.io/badge/H-4-red) ![](https://img.shields.io/badge/M-2-yellow) |
 | Burve | Sherlock | 1 | ![](https://img.shields.io/badge/H-1-red) |
 | Forte: Float128 Library | Code4rena | 1 | ![](https://img.shields.io/badge/H-1-red) |
+
+### Private Audits
+| Date | Firm | Project | Report |
+|:-----|:-----|:--------|:-------|
+| 2026.08 | Kann Audits | Castr.fun | [report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) |
 
 ### Bug Bounties
 | Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount |
