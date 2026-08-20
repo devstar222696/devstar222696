@@ -82,6 +82,7 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 | Date | Firm | Project | Report |
 |:-----|:-----|:--------|:-------|
 | 2026.08 | Kann Audits | Castr.fun | [report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) |
+| 2026.08 | Kann Audits | N4A | [report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/N4A-security-review-2026-08-18.pdf) |
 
 ### Bug Bounties
 | Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount |
