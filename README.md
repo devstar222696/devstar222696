@@ -88,6 +88,7 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 | Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount |
 | ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: |
 | 2026.04 | HackenProof	 | *Hidden*    | Bridge | Rust | Low | 1k |
+| 2026.08 | HackenProof	 | *Hidden*    | Bridge | Rust | Low | 100 |
 
 ---
 
