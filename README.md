@@ -46,6 +46,7 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 ### Contest Engagements  
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| Metric | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Jupiter Lend | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Injective Peggy Bridge | Code4rena | 1 | ![](https://img.shields.io/badge/QA-2nd%20QA-blue) |
 | Chainlink Payment Abstraction V2 | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
