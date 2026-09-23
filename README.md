@@ -1,13 +1,13 @@
-## About me
+## About Me
 
-**Security researcher / smart contract auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 system.
+**Security researcher / smart contract auditor** specializing in **smart contract audits**, **formal verification**, and **blockchain security** for DeFi protocols, cross-chain infrastructure, and Web3 systems.
 
-- Judge at Code4rena & Sherlock
+- Judge at Code4rena and Sherlock
 - Multiple high-severity findings across public contests and bug bounties
-- Deep focus on exploit development, edge-case analysis & invariant thinking
-- Open to remote security researcher / audit roles
+- Deep focus on exploit development, edge-case analysis and invariant thinking
+- Open to remote security research / smart contract audit roles
   
-**Reach out via** [X(@JeRRySec0422)](https://x.com/JeRRySec0422) or [Telegram(@OxJeRRy0422)](https://t.me/OxJeRRy0422) for audits in **Solidity**, **Rust**, **Move**, **Go** and **Cairo**.
+**Reach out via** [X(@JeRRySec0422)](https://x.com/JeRRySec0422) or [Telegram(@OxJeRRy0422)](https://t.me/OxJeRRy0422) for audits in **Solidity**, **Rust**, **Move**, **Go**, and **Cairo**.
 
 ---
 
@@ -34,16 +34,27 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 | [**Neutrl Protocol (Solidity)**](https://audits.sherlock.xyz/contests/1065/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥇 |
 | [**LayerZero: Starknet Endpoint (Cairo)**](https://code4rena.com/audits/2025-10-layerzero-starknet-endpoint) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
 | [**Intuition (Solidity)**](https://code4rena.com/audits/2026-03-intuition) | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 🥇 |
-| [**Intuition Mitigation Review (Solidity)**](https://code4rena.com/audits/2026-04-intuition-mitigation-review) | Code4rena |  |  | 🥇 |
-| [**Inverse Finance - Junior Tranche (Solidity)**](https://audits.sherlock.xyz/contests/1202/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥉 |
+| [**Intuition Mitigation Review (Solidity)**](https://code4rena.com/audits/2026-04-intuition-mitigation-review) | Code4rena | — | — | 🥇 |
+| [**Inverse Finance – Junior Tranche (Solidity)**](https://audits.sherlock.xyz/contests/1202/leaderboard) | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 🥉 |
 | [**Flare – FAsset (Solidity)**](https://code4rena.com/audits/2025-08-flare-fasset) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) | 4 |
 | [**Jupiter Lend (Rust)**](https://code4rena.com/audits/2026-02-jupiter-lend) | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) | 6 |
 | [**Injective Peggy Bridge (Go)**](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Code4rena | 1 | ![](https://img.shields.io/badge/QA-2nd%20QA-blue) | 9 |
+
+---
+
+## Other Achievements
+
+### 🏆 Nabu Tester Program — Winner
+
+Selected as a winner of the **Nabu Tester Program** for detailed product testing, analysis, and feedback.
+
+[**View announcement →**](https://x.com/nabupro/status/2102672617492689235)
+
 ---
 
 ## Audit Portfolio
 
-### Contest Engagements  
+### Contest Engagements
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
 | Metric | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
@@ -61,7 +72,7 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 | Brix Money | Code4rena | 2 | ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | GTE Perps and Launchpad | Code4rena | 3 | ![](https://img.shields.io/badge/H-2-red) ![](https://img.shields.io/badge/M-1-yellow) |
 | Rain Smart Contract | HackenProof | 4 | ![](https://img.shields.io/badge/C-2-purple) ![](https://img.shields.io/badge/M-1-yellow) ![](https://img.shields.io/badge/L-1-blue) |
-| Inverse Finance - Junior Tranche | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
+| Inverse Finance – Junior Tranche | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Megapot | Code4rena | 2 | ![](https://img.shields.io/badge/M-2-yellow) |
 | LayerZero: Starknet Endpoint | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
 | Flare – FAsset | Code4rena | 1 | ![](https://img.shields.io/badge/QA-Top%20QA-blue) |
@@ -88,8 +99,8 @@ Completed the **Kann Audits Internship Program**, gaining hands-on experience in
 ### Bug Bounties
 | Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount |
 | ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: |
-| 2026.04 | HackenProof	 | *Hidden*    | Bridge | Rust | Low | 1k |
-| 2026.08 | HackenProof	 | *Hidden*    | Bridge | Rust | Low | 100 |
+| 2026.04 | HackenProof | *Hidden* | Bridge | Rust | Low | $1,000 |
+| 2026.08 | HackenProof | *Hidden* | Bridge | Rust | Low | $100 |
 
 ---
 
